@@ -1,7 +1,7 @@
 ---
 slug: welcome
-title: Welcome
-authors: [slorber, yangshun]
+title: Welcome to Phoenix Math!
+authors: [cari]
 tags: [facebook, hello, docusaurus]
 ---
 
